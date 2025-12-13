@@ -156,15 +156,13 @@ python manage.py runserver
 
 ---
 
-## 🤝 **Contributing**
-```
-git checkout -b feature/cool-feature
-git commit -m "[FEATURE] Add dashboard"
-git push origin feature/cool-feature
+
 ```
 
 ## 📄 **License**
-MIT License
+ Eniyavan M
+ Gangamithra 
+ Akshyaa.
 
 **⭐ Star if helpful! Built for supplement retailers 🚀**
 ```
